@@ -31,4 +31,4 @@ An e-commerce analytics project using SQL and Excel to explore sales performance
 ## Objective
 To turn e-commerce transaction data into useful business insights and demonstrate practical data analysis skills.
 
-*Note: Analysis is based on the available Olist dataset and the filters defined in the SQL scripts.*
+
