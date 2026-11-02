@@ -1,0 +1,6 @@
+customer_segment,number_of_customers,avg_spend,total_revenue
+"At Risk",37344,142.51,5322068.73
+"Promising / New",30370,140.78,4275465.08
+"Loyal Customers",10748,198.33,2131611.28
+Others,13965,85.01,1187230.73
+Champions,931,327.74,305122.29
